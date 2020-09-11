@@ -5,5 +5,11 @@
 
 <p align='center'>If you want meet me or do a project with me, send a message.</p>
 
-<p align='center'><a target="_blank" href="https://www.linkedin.com/in/lucasmagnorc/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lucasmagnorc/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.buymeacoffee.com/lucasmagnorc">
+    <img src="https://img.shields.io/badge/BUY ME A COFFEE-FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  </a>
 </p>
